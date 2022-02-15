@@ -1,1 +1,2 @@
 # Image_Processing_GUI
+This project was a part of EE5323:Digital Image Processing course at Texas State University. In this project I implemented different image processing filters using MATLAB. All these filters and their use are brought together to the users using graphic user interface.I implemented different filters to the images both in the spatial domain and frequency domain. Users can upload their desired photos to the GUI app, can apply those filters to images and finally can save the filtered images to destinated location in the pc. 
